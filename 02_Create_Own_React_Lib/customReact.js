@@ -1,1 +1,0 @@
-const mainCont = document.querySelector("#root")
